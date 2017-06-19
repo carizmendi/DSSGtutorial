@@ -3,3 +3,4 @@ This is a repository used as part of a demonstration during DSSG course, 19 June
 
 Adding something locally and a line remotely.
 
+Adding new line.
